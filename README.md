@@ -7,3 +7,4 @@ I adore learning new skills and I'm a fairly quick learner.
 
 - 🌱 I’m currently learning: JavaScript Front-end Frameworks & Node.js
 - 📫 How to reach me: [LinkdIn](https://www.linkedin.com/in/olga-spirkina/).
+- :computer: [Digital cv] (olgaspirkina.github.io/). 
