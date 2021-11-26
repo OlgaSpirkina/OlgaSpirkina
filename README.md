@@ -10,4 +10,5 @@ I adore learning new skills and I'm a fairly quick learner.
 - :computer: [Digital cv](https://olgaspirkina.github.io/). 
 
 ## Statistics
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olgaspirkina)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgaspirkina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
