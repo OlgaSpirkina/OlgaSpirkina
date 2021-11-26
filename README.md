@@ -10,7 +10,7 @@ I adore learning new skills and I'm a fairly quick learner.
 - :computer: [Digital cv](https://olgaspirkina.github.io/). 
 
 ## Statistics                                                                                                                                            
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olgaspirkina&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgaspirkina&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olgaspirkina&show_icons=true&theme=darcula&border_radius="1rem") [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgaspirkina&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
