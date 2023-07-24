@@ -7,7 +7,7 @@ I adore learning new skills and I'm a fairly quick learner.
 
 - 🌱 I’m currently learning: Node.js & JavaScript Front-end Frameworks  
 - 📫 How to reach me: [LinkdIn](https://www.linkedin.com/in/olga-spirkina/).
-- :computer: [Digital cv](cv-dev-olga.netlify.app). 
+- :computer: [Digital cv](https://cv-dev-olga.netlify.app). 
 
 ## Statistics                                                                                                                                            
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olgaspirkina&show_icons=true&theme=synthwave&border_radius=15%) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgaspirkina&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
